@@ -18,6 +18,9 @@
         "php": ">=5.5.9",
         "royalcms/hook": "dev-master"
     },
+    "require-dev": {
+        "royalcms/ide-helper": "dev-master"
+    },
     "autoload": {
         "psr-4": {
             "Royalcms\\Component\\RestApi\\": "src/Royalcms/Component/RestApi"
